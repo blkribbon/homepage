@@ -1,0 +1,23 @@
+body{
+	background:#F1CBB4;
+}
+h2,#text{
+	color:#C55B5D;
+}
+a{
+	color:#57464C;
+}
+a:hover{
+	color:#DB7D95;
+}
+#search-bar{
+	background:;
+}
+#search-bar::-moz-selection{
+	background:none;
+	color:;
+}
+#search-bar::selection{
+	background:#333;
+	color: #fff;
+}
